@@ -1,5 +1,6 @@
 # DQ_suspiros
 > An index with all possible variations of 'suspiro' or 'suspirar' in the entire Don Quijote corpus
+> `Pos.` is the approximate position in the chapter if the page number is not provided
 
 
 | Parte | Cap.          | Pos. | V/N | Forma            | Contexto                                                                                                                                                                                                                                                                                                                                                                                |
